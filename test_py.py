@@ -4,7 +4,7 @@ class A:
         self.name=None
 
 class B:
-    pass
+    #pass
 
 class C(B,A):
     pass
