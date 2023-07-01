@@ -1,4 +1,4 @@
-""" class is creating for seeing lint issues"""
+""" class is creating for seeing lint issues lets see"""
 class A:
     def __init__(self):
         self.name=None
